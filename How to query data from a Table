@@ -1,4 +1,0 @@
-###In the Chinook Data base there is a table called employees####
-###We can query data from the table employees using below code###
-SELECT * FROM employees;
-SELECT LastName FROM employees;
